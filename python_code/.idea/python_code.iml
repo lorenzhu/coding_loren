@@ -4,12 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-<<<<<<< HEAD
-=======
-    <orderEntry type="module" module-name="coding_loren" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
->>>>>>> f08e59c8966b4dc2312961e38a4d33d9d62c1206
   </component>
 </module>
