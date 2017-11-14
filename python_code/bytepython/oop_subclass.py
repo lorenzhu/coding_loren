@@ -1,7 +1,7 @@
 # -*- coding：utf-8 -*-
 
 class SchoolMember:
-    """代表任何学校里的成员"""
+    '''代表任何学校里的成员'''
     def __init__(self, name, age):
         self.name = name
         self.age  = age
@@ -44,3 +44,5 @@ members = [t, s]
 for member in members:
     # 对全体师生工作
     member.tell()
+
+print(SchoolMember.__doc__)
