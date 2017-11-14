@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="6b1153c2-c5d1-44a5-a250-231c0b1832bf" name="Default" comment="" />
+=======
     <list default="true" id="3def0820-6c00-4879-a15c-666b9967fb81" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> f08e59c8966b4dc2312961e38a4d33d9d62c1206
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_code$oop_subclass.coverage" NAME="oop_subclass Coverage Results" MODIFIED="1510649712134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bytepython" />
     <SUITE FILE_PATH="coverage/python_code$io_pickle.coverage" NAME="io_pickle Coverage Results" MODIFIED="1510650262417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bytepython" />
@@ -185,10 +193,22 @@
         <item index="2" class="java.lang.String" itemvalue="Python.oop" />
       </list>
     </recent_temporary>
+>>>>>>> f08e59c8966b4dc2312961e38a4d33d9d62c1206
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+<<<<<<< HEAD
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1510646717488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510646717488</updated>
+    </task>
+    <servers />
+  </component>
+=======
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,6 +250,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+>>>>>>> f08e59c8966b4dc2312961e38a4d33d9d62c1206
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -237,6 +258,8 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+<<<<<<< HEAD
+=======
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bytepython/backup_ver1_linux.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -289,4 +312,5 @@
       </provider>
     </entry>
   </component>
+>>>>>>> f08e59c8966b4dc2312961e38a4d33d9d62c1206
 </project>
